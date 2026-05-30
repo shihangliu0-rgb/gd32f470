@@ -1,0 +1,49 @@
+# Vendor SDK examples (not used by this project)
+Examples/
+
+# Vendor documentation
+Docs/
+
+# Build outputs
+**/output/
+**/list/
+**/build/
+**/Objects/
+**/bin/
+**/obj/
+**/out/
+
+# Keil / embedded build artifacts
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.htm
+*.dep
+*.crf
+*.bak
+*.elf
+
+# IDE / editor (user-specific or generated)
+.vscode/
+*.uvguix.*
+.eide/
+.cmsis/
+.clangd
+*.code-workspace
+.settings/
+
+# EIDE
+*.ept
+*.eide-template
+.eide.usr.ctx.json
+
+# OS
+Thumbs.db
+Desktop.ini
+*.swp
+*~
